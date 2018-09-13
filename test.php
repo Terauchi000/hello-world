@@ -10,4 +10,4 @@ if($number="12月"){
 }elseif($number="9月"){
         $race="keiba3";
 }
-print($month."は".$$race."記念です。");
+print($month."は".$$race."記念です");
